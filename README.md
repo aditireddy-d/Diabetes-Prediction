@@ -1,7 +1,5 @@
-# Diabetes-Prediction
+# Diabetes Prediction Using Python and Machine Learning
 Predicting diabetes using various machine learning models on the PIMA Indian Diabetes dataset. Includes full EDA, preprocessing, model comparison, and performance evaluation. Best model achieves 91.45% accuracy.
-# Diabetes Prediction using Machine Learning
-
 
 ## Dataset
 Source: [Kaggle - Diabetes Data Set](https://www.kaggle.com/datasets/mathchi/diabetes-data-set)
@@ -35,4 +33,4 @@ Source: [Kaggle - Diabetes Data Set](https://www.kaggle.com/datasets/mathchi/dia
 - XGBoost
 - Matplotlib
 - Seaborn
-"""
+
